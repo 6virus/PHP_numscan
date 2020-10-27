@@ -2,5 +2,5 @@
 
 ## Social Media
 <ul>
-  <li><a href="https://instagram.com/1zsb">Instagram</a></li>
+  <li><b><a href="https://instagram.com/1zsb">Instagram</a></b></li>
 </ul>
